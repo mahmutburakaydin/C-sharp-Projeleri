@@ -1,0 +1,15 @@
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\bin\Debug\net6.0\Encapsulation ve Proparty.exe
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\bin\Debug\net6.0\Encapsulation ve Proparty.deps.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\bin\Debug\net6.0\Encapsulation ve Proparty.runtimeconfig.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\bin\Debug\net6.0\Encapsulation ve Proparty.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\bin\Debug\net6.0\Encapsulation ve Proparty.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.csproj.AssemblyReference.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.AssemblyInfoInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.AssemblyInfo.cs
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.csproj.CoreCompileInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\refint\Encapsulation ve Proparty.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\Encapsulation ve Proparty.genruntimeconfig.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Encapsulation ve Proparty\obj\Debug\net6.0\ref\Encapsulation ve Proparty.dll
