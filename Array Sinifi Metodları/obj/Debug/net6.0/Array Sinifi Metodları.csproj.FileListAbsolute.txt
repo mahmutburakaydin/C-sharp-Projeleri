@@ -1,0 +1,15 @@
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\bin\Debug\net6.0\Array Sinifi Metodları.exe
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\bin\Debug\net6.0\Array Sinifi Metodları.deps.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\bin\Debug\net6.0\Array Sinifi Metodları.runtimeconfig.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\bin\Debug\net6.0\Array Sinifi Metodları.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\bin\Debug\net6.0\Array Sinifi Metodları.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.csproj.AssemblyReference.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.AssemblyInfoInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.AssemblyInfo.cs
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.csproj.CoreCompileInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\refint\Array Sinifi Metodları.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\Array Sinifi Metodları.genruntimeconfig.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Array Sinifi Metodları\obj\Debug\net6.0\ref\Array Sinifi Metodları.dll
