@@ -1,0 +1,5 @@
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Generic Koleksiyonlar ve List\obj\Debug\net6.0\Generic Koleksiyonlar ve List.csproj.AssemblyReference.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Generic Koleksiyonlar ve List\obj\Debug\net6.0\Generic Koleksiyonlar ve List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Generic Koleksiyonlar ve List\obj\Debug\net6.0\Generic Koleksiyonlar ve List.AssemblyInfoInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Generic Koleksiyonlar ve List\obj\Debug\net6.0\Generic Koleksiyonlar ve List.AssemblyInfo.cs
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Generic Koleksiyonlar ve List\obj\Debug\net6.0\Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
