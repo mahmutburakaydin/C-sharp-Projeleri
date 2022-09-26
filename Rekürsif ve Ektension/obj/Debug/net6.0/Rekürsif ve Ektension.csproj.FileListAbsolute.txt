@@ -1,0 +1,15 @@
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.csproj.AssemblyReference.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.AssemblyInfoInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.AssemblyInfo.cs
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.csproj.CoreCompileInputs.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\bin\Debug\net6.0\Rekürsif ve Ektension.exe
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\bin\Debug\net6.0\Rekürsif ve Ektension.deps.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\bin\Debug\net6.0\Rekürsif ve Ektension.runtimeconfig.json
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\bin\Debug\net6.0\Rekürsif ve Ektension.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\bin\Debug\net6.0\Rekürsif ve Ektension.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\refint\Rekürsif ve Ektension.dll
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.pdb
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\Rekürsif ve Ektension.genruntimeconfig.cache
+C:\Users\Burak Aydın\Desktop\Pratikler\C# Ödevleri\Rekürsif ve Ektension\obj\Debug\net6.0\ref\Rekürsif ve Ektension.dll
